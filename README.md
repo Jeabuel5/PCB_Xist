@@ -3,10 +3,10 @@
 
  Bioinformatics analysis for **[short project description]**.
 
-**Data type(s):** [WGBS / snRNA-seq / WGS / multi-omics]  
-**Study / cohort:** [name]  
+**Data type(s):** Image Analysis using High-content imager  
+**Study / cohort:** Xist RNA cloud / Female_PCB dosed mice  
 **Genome build:** [hg38/hg19/etc]  
-**Primary outputs:** [DMRs/DEGs/modules/figures/etc]
+**Primary outputs:** [figures/etc]
 
 ---
 
