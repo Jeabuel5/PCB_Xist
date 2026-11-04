@@ -1,4 +1,4 @@
-# PROJECT_NAME
+# PCB_Xist_FISH
 
 
  Bioinformatics analysis for **[short project description]**.
